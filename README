@@ -1,0 +1,8 @@
+# Proyecto de Evaluación 8
+
+Este proyecto es una aplicación Node.js con Express que muestra un sitio web sencillo con dos páginas: Inicio y Acerca de Nosotros.
+
+## Requisitos
+
+- Node.js (versión 14 o superior)
+- npm (Administrador de paquetes de Node.js)
